@@ -18,3 +18,4 @@ Awesome Font
 
 - [Inconsolata for Powerline](https://github.com/powerline/fonts/tree/master/Inconsolata)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- [Fira Code](https://github.com/tonsky/FiraCode)
