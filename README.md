@@ -18,4 +18,5 @@ Awesome Font
 
 - [Inconsolata for Powerline](https://github.com/powerline/fonts/tree/master/Inconsolata)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+- [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro)
 - [Fira Code](https://github.com/tonsky/FiraCode)
